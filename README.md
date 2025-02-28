@@ -24,10 +24,9 @@ This is a simple **To-Do Application** built using **Django (Backend) and React 
 - CSS for styling
 
 ## Project Structure
-To-Do-Application/ │-- backend/ # Django Backend │ ├── todo/ # Todo App │ │ ├── migrations/ # Database Migrations │ │ ├── models.py # Database Schema │ │ ├── views.py # API Logic │ │ ├── serializers.py # DRF Serializers │ │ ├── urls.py # API Endpoints │ ├── settings.py # Django Configuration │ ├── urls.py # Main URLs │ ├── manage.py # Django CLI │ │-- frontend/ # React Frontend │ ├── src/ │ │ ├── components/ # UI Components │ │ ├── App.js # Main App Component │ │ ├── index.js # Entry Point │ │ ├── api.js # API Calls with Axios │ │ ├── styles.css # CSS Styles │ ├── package.json # Dependencies │ ├── .env # API URL Config │ │-- README.md # Project Documentation
+To-Do-Application/ │-- backend/ # Django Backend │ ├── todo/ # Todo App │ │ ├── migrations/ # Database Migrations │ │ ├── models.py # Database Schema │ │ ├── views.py # API Logic │ │ ├── serializers.py # DRF Serializers │ │ ├── urls.py # API Endpoints │ ├── settings.py # Django Configuration │ ├── urls.py # Main URLs │ ├── manage.py # Django CLI │ │-- frontend/ # React Frontend │ ├── src/ │ │ ├── components/ # UI Components │ │ ├── App.js # Main App Component │ │ ├── index.js # Entry Point │ │ ├── api.js # API Calls with Axios │ │ ├── styles.css # CSS Styles │ ├── package.json # Dependencies │ ├── .env # API URL Config │ │-- README.md 
 
-
-# Project
+# Project Documentation
 
 ## Getting Started
 ### 1. Clone the Repository
